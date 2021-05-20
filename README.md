@@ -46,5 +46,5 @@
 
 ### All stats
 
-<img alt="Shamim's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shshamim63&theme=dracula&show_icons=true&hide_border=true" />
+<img alt="Shamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shshamim63&theme=dracula&show_icons=true&hide_border=true" />
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshamim63&layout=compact&langs_count=8&theme=dracula&show_icons=true&hide_border=true" />
