@@ -6,7 +6,6 @@
 
 ### I'm a Full-Stack Developer.
 
-- 🤝 I'm actively looking for a new opportunity in Software development
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **HiveLink**
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
