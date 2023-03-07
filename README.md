@@ -6,8 +6,7 @@
 
 ### I'm a Full-Stack Developer.
 
-- ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`
-- 🌍 I support and volunteer with: **HiveLink**
+- ⚙️ I use daily: `.ts`, `.rb`, `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `yaml`
 - 💬 Ping me about: **Web development**, **fullstack development**, **diversity & inclusion**, **mentorship**
 - 😍 Interests: Machine Learning, Artificial Intelligence, reading books 📖, movies and web series 🎥
 
@@ -15,7 +14,6 @@
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/shakhawathossainshamim/">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://shakhawathossain.me/">shakhawathossain.me</a>
-- 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/Shshamim090">Twitter</a>
 
 ### Languages and Tools:
 
