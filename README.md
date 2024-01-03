@@ -13,7 +13,7 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/shakhawathossainshamim/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://shakhawathossain.me/">shakhawathossain.me</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://www.shakhawat.dev/">shakhawat.dev</a>
 
 ### Languages and Tools:
 
